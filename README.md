@@ -1,1 +1,1 @@
-# GomTangLuv
+# GomTang
