@@ -1,1 +1,16 @@
 # GomTang
+<!doctype html>
+<html>
+<head>
+  <title>GomTang</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>All about GOMTANG</h1>
+  <ol>
+    <li><a href="1.GOMTANG.html">GOMTANG</a></li>
+    <li><a href="2.charmingpoint.html">Charmingpoint</a></li>
+    <li><a href="3.photo.html">PHOTO</a></li>
+  </ol>
+</body>
+</html>
