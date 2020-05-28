@@ -1,5 +1,4 @@
-# GomTangLuv
-<!doctype html>
+
 <html>
 <head>
   <title>AllaboutGOMTANG</title>
