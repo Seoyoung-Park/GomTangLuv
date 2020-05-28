@@ -1,11 +1,6 @@
-
 <html>
-<head>
- 
-  <meta charset="utf-8">
-</head>
 <body>
-  <h1>All about GOMTANG</h1>
+  <h1><a href="GomTang.html">All about GOMTANG</a></h1>
   <ol>
     <li><a href="1.GOMTANG.html">GOMTANG</a></li>
     <li><a href="2.charmingpoint.html">Charmingpoint</a></li>
